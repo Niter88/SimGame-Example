@@ -1,0 +1,7 @@
+C:\Users\Niter\source\repos\SimGame\SimGame\bin\Debug\SimGame.exe.config
+C:\Users\Niter\source\repos\SimGame\SimGame\bin\Debug\SimGame.exe
+C:\Users\Niter\source\repos\SimGame\SimGame\bin\Debug\SimGame.pdb
+C:\Users\Niter\source\repos\SimGame\SimGame\obj\Debug\SimGame.csproj.AssemblyReference.cache
+C:\Users\Niter\source\repos\SimGame\SimGame\obj\Debug\SimGame.csproj.CoreCompileInputs.cache
+C:\Users\Niter\source\repos\SimGame\SimGame\obj\Debug\SimGame.exe
+C:\Users\Niter\source\repos\SimGame\SimGame\obj\Debug\SimGame.pdb
